@@ -1,0 +1,91 @@
+.error {
+    color: red;
+       }
+
+img{
+    width:60%;
+    height:480px;
+    float:right;
+}
+#ep{
+    height:80px;
+    width:20%;
+}
+#cat{
+    width:85%;
+    height: 20px;
+    height:480px;
+    
+}
+#login{
+    float:right;
+    height:200px;
+}
+#home{
+    width:100%;
+}
+#cpp{
+    width:25%;
+    height:180px;
+
+}
+#vp{
+    height:80px;
+    width:20%;
+}
+#cp{
+    height:700px;
+    width:75%;
+}
+
+
+#dash{
+    width:80%;
+    height:350px;
+}
+h1{
+    color :rgb(26, 21, 28);
+    text-align: center;
+    font-family: Verdana;
+    background-color:rgb(234, 234, 247);
+    font-size: x-large;
+}
+
+div{
+    font-size:x-large;
+    font-family: Verdana;
+    text-align: right;   
+}
+span,h3{
+    font-family:Verdana;
+    color :rgb(234, 234, 247);
+    
+    
+}
+
+form{
+    background-color:rgb(234, 234, 247);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color:rgb(234, 234, 247);
+}
+
+li a {
+    
+    display: block;
+    color: rgb(0, 0, 0);
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
+
